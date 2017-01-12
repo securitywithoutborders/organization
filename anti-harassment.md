@@ -4,7 +4,7 @@
 
 Security Without Borders is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all Security Without Borders spaces, including our mailing lists and chats, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM.
+This code of conduct applies to all Security Without Borders spaces, including our mailing lists and chats, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Response Team.
 
 Some Security Without Borders spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
@@ -12,7 +12,7 @@ Some Security Without Borders spaces may have additional rules in place, which w
 
 Security Without Borders is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all Security Without Borders spaces, including our mailing lists and chats, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM.
+This code of conduct applies to all Security Without Borders spaces, including our mailing lists and chats, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Response Team.
 
 Some Security Without Borders spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
@@ -35,7 +35,7 @@ Harassment includes:
 - Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 - Publication of non-harassing private communication.
 
-Security Without Borders prioritizes marginalized people's safety over privileged people's comfort. RESPONSE TEAM will not act on complaints regarding:
+Security Without Borders prioritizes marginalized people's safety over privileged people's comfort. Response Team will not act on complaints regarding:
 
 - 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
 - Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
@@ -44,7 +44,7 @@ Security Without Borders prioritizes marginalized people's safety over privilege
 
 ## Reporting
 
-If you are being harassed by a member of Security Without Borders, notice that someone else is being harassed, or have any other concerns, please contact the RESPONSE TEAM at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of Security Without Borders, notice that someone else is being harassed, or have any other concerns, please contact the Response Team at *response -at- securitywithoutborders.org*. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to Security Without Borders spaces, but if you are being harassed by a member of Security Without Borders outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Security Without Borders members, especially Security Without Borders Central, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from Security Without Borders based on their past behavior, including behavior outside Security Without Borders spaces and behavior towards people who are not in Security Without Borders.
 
@@ -56,7 +56,7 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, RESPONSE TEAM may take any action they deem appropriate, up to and including expulsion from all Security Without Borders spaces and identification of the participant as a harasser to other Security Without Borders members or the general public.
+If a participant engages in harassing behavior, Response Team may take any action they deem appropriate, up to and including expulsion from all Security Without Borders spaces and identification of the participant as a harasser to other Security Without Borders members or the general public.
 
 ## Licensing
 
