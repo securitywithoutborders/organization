@@ -1,4 +1,4 @@
-# Anti-Harassment Policy
+# Code of Conduct
 
 ## Shorter Version
 
